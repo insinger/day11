@@ -1,0 +1,27 @@
+{
+  "name": "proj-layout-sample",
+  "description": "Project Layout Sample app",
+  "main": "server/app.js",
+  "authors": [
+    "cjinpheow@gmail.com"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "project",
+    "layout",
+    "sample"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.4",
+    "bootstrap": "^3.3.7"
+  }
+}
